@@ -1,0 +1,7 @@
+{
+  "addFund": {
+    "amount": "5,000",
+    "upiId": "9082203020@ybl",
+    "paymentMode": "UPI"   
+  }
+}

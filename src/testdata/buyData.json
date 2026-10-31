@@ -1,0 +1,34 @@
+{
+  "buyData": {
+    "orderTypeButton": "Buy",
+    "stock": "RELIANCE",
+    "quantity": "1",
+    "price": "1000",
+    "disclosedQuantity": "1",
+    "stoplossTriggerPrice": "990",
+    "stoplossLimitPrice": "990",
+    "targetTriggerPrice": "1010",
+    "watchlist": "ORDERWINDOW",
+    "exchange": "NSE",
+    "performanceTab": "Lower Band",
+    "pricePercentage": 2,
+    "validity": "MYGTD",
+    "expectedAction": "Buy"
+  },
+  "sellData": {
+    "orderTypeButton": "Sell",
+    "stock": "RELIANCE",
+    "quantity": "1",
+    "price": "1000",
+    "disclosedQuantity": "1",
+    "stoplossTriggerPrice": "990",
+    "stoplossLimitPrice": "990",
+    "targetTriggerPrice": "1010",
+    "watchlist": "ORDERWINDOW",
+    "exchange": "NSE",
+    "performanceTab": "Upper Band",
+    "pricePercentage": -2,
+    "validity": "MYGTD",
+    "expectedAction": "Sell"
+  }
+}
